@@ -1,1 +1,1 @@
-# N7GermanTrainer
+# GermanTrainer
